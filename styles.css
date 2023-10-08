@@ -1,0 +1,23 @@
+* {
+    background-color: rgb(25, 25, 85);
+    color: white;
+    
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+.supakick {
+    padding: 10px 0;
+}
+
+p, li {
+    color: rgb(198, 198, 198);
+}
+
+#top {
+    background-color: rgba(14, 12, 49, 0.854);
+    padding: 5px 0 5px 5px;
+}
