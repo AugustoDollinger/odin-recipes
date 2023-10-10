@@ -1,12 +1,21 @@
+body {
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+    background-color: rgb(12, 7, 45);
+}
+
 * {
-    background-color: rgb(25, 25, 85);
+    
     color: white;
     
 }
 
 img {
-    width: 300px;
-    height: auto;
+    display: flexbox;
+    width: 400px;
+    height: 400px;
+    background-size: cover;
 }
 
 .supakick {
@@ -18,6 +27,28 @@ p, li {
 }
 
 #top {
-    background-color: rgba(14, 12, 49, 0.854);
+    background-color: rgb(25, 25, 85);
     padding: 5px 0 5px 5px;
+
+}
+
+.tupi {
+    background-color: rgb(25, 25, 85) ;
+
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.iput {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(105, 10, 10);
+}
+
+.read {
+    background-color: rgba(33, 33, 33, 50%);
+    padding: 10px 40px;
 }
